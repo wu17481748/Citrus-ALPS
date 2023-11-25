@@ -87,7 +87,7 @@ jobs:
     - name: 上传 Anykernel3
       uses: actions/upload-artifact@v3
       with:
-        name: 安卓12-realme_X7max_GTneo_Q3pro_GTneo2T-Ksu内核-卡刷包
+        name: 安卓11-realme_X7max_GTneo_Q3pro_GTneo2T-Ksu内核-卡刷包
         path: kernel_workspace/AnyKernel3/*
         
 
